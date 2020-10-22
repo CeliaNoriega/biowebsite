@@ -1,0 +1,19 @@
+body {
+  color: whitesmoke;
+  background-color: rgb(57, 85, 76);
+  font-family: 'Raleway', sans-serif;
+  font-size: larger;
+  text-align: center;
+}
+
+#top {
+  color: rgb(88, 82, 74);
+  background-color: white;
+  text-align: center;
+}
+
+img {
+  width: fit-content;
+}
+
+#info {}
